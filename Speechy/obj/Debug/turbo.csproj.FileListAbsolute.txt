@@ -1,0 +1,14 @@
+C:\Users\laure\Downloads\turbo\obj\Debug\turbo.csproj.AssemblyReference.cache
+C:\Users\laure\Downloads\turbo\obj\Debug\turbo.csproj.SuggestedBindingRedirects.cache
+C:\Users\laure\Downloads\turbo\obj\Debug\turbo.Form1.resources
+C:\Users\laure\Downloads\turbo\obj\Debug\turbo.Properties.Resources.resources
+C:\Users\laure\Downloads\turbo\obj\Debug\turbo.csproj.GenerateResource.cache
+C:\Users\laure\Downloads\turbo\obj\Debug\turbo.csproj.CoreCompileInputs.cache
+C:\Users\laure\Downloads\turbo\bin\Debug\turbo.exe.config
+C:\Users\laure\Downloads\turbo\bin\Debug\turbo.exe
+C:\Users\laure\Downloads\turbo\bin\Debug\turbo.pdb
+C:\Users\laure\Downloads\turbo\obj\Debug\turbo.exe
+C:\Users\laure\Downloads\turbo\obj\Debug\turbo.pdb
+C:\Users\laure\Downloads\turbo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\laure\Downloads\turbo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\laure\Downloads\turbo\obj\Debug\turbo.csproj.CopyComplete
